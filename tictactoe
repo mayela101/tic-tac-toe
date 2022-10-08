@@ -1,0 +1,21 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+//title 
+printf("WELCOME TO TIC TAC TOE!\n");
+
+//1v1 or 1vComputer
+printf("1 --- Person VS. Person\n");
+printf("2 --- Person VS. Random Computer\n");
+
+
+
+
+return 0;
+
+
+}
